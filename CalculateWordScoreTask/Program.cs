@@ -13,10 +13,11 @@
             // convert each letter to its ascii value and sum them up
             // print the score
             // Write your code here
-            //
+            // Show your evidence by testing with your full name as an input
         }
 
         // This method removes all non-letter characters from the input string
+
         static string removeNonLetters(string input)
         {
             string result = "";
